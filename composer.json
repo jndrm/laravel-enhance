@@ -1,0 +1,21 @@
+{
+    "name": "drmer/laravel-enhancer",
+    "type": "library",
+    "description": "This library collects some useful or funny features but refused to be added to the core.",
+    "keywords": [
+        "enhancer",
+        "laravel"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Donald",
+            "email": "donald@drmer.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Drmer\\Laravel\\Enhancer\\": "src/"
+        }
+    }
+}
